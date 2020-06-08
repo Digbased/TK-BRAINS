@@ -9,7 +9,7 @@ from minorquest import *
 from exp import *
 from babel.numbers import format_number, format_decimal, format_percent, parse_decimal
 
-TOKEN = 'NzE3OTg1MTY1MDQwODEyMDUy.Xtr6lg.MLzawLU34F06Ag9etzCI5CJPeeU'
+TOKEN = 'token here'
 
 client = discord.Client()
 bot = commands.Bot(command_prefix='!')
