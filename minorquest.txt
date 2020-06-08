@@ -1,0 +1,128 @@
+Ambitious komi:Tangun:http://nexusatlas.com/60atlas/torturedcrypt.php
+Angry spirit:Hamgyong nam-do:http://nexusatlas.com/60atlas/spiritinsurgency.php
+Anxious komi:Tangun:http://nexusatlas.com/60atlas/torturedcrypt.php
+Arctic deer:Artic:http://nexusatlas.com/60atlas/snowdungeon.php
+Ardent komi:Tangun:http://nexusatlas.com/60atlas/torturedcrypt.php
+Avalanche ogre:Artic:http://nexusatlas.com/60atlas/icebound.php
+Bear:Vale:http://nexusatlas.com/60atlas/vale.php
+Big Bat:Kugnae:http://nexusatlas.com/60atlas/ratden.php
+Big Bat:Buya:http://nexusatlas.com/60atlas/ratburrough.php
+Big Bat:Wilderness:http://nexusatlas.com/60atlas/basinviaduct.php
+Black Rabbit:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Black Skeleton:Vale:http://nexusatlas.com/60atlas/dirge.php
+Blizzard ogre:Artic:http://nexusatlas.com/60atlas/snowblind.php
+Blood Mantis:Kugnae:http://nexusatlas.com/60atlas/deadlyaerie.php
+Blood Tick:Buya:http://nexusatlas.com/60atlas/albinoway.php
+Blood Wolf:Wilderness:http://nexusatlas.com/60atlas/wilderness.php
+Blood Wolf:Tangun:http://nexusatlas.com/60atlas/ravagedburrow.php
+Brown Rabbit:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Cave Ogre:Hamgyong nam-do:http://nexusatlas.com/60atlas/dingyegress.php
+Cave Ogre:Hamgyong nam-do:http://nexusatlas.com/60atlas/murkydivide.php
+Crystal whisp:Hamgyong nam-do:http://nexusatlas.com/60atlas/nnghzansdoorstep.php
+Cyclone ogre:Artic:http://nexusatlas.com/60atlas/frostfield.php
+Dark buck:Buya:http://nexusatlas.com/60atlas/deerfield.php
+Dark buck:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Dark mantis:Forest Crossroads:http://nexusatlas.com/60atlas/darkmantis.php
+Dark squirrel:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Darting seahorse:Tangun:http://nexusatlas.com/60atlas/tangunsquidcave.php
+Deathwish:Vale:http://nexusatlas.com/60atlas/secretsnow.php
+Deep wood mantis:Forest Crossroads:http://nexusatlas.com/60atlas/deepwoodsmantis.php
+Desert Wasp:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Enraged saseum:Tangun:http://nexusatlas.com/60atlas/amethystpools.php
+Fierce mouse:Wilderness:http://nexusatlas.com/60atlas/fissurecrossroads.php
+Fierce mouse:Kugnae:http://nexusatlas.com/60atlas/batsandrats.php
+Flametongue captain:Tangun:http://nexusatlas.com/60atlas/scorchedearth.php
+Flurry ogre:Artic:http://nexusatlas.com/60atlas/latitudes.php
+Forest mantis:Forest crossroads:http://nexusatlas.com/60atlas/stonesentinels.php
+Forest mantis:Forest crossroads:http://nexusatlas.com/60atlas/ghostmantis.php
+Frost butterfly:Kinung:http://nexusatlas.com//60atlas/kinung.php
+Frost butterfly:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Frost ogre:Artic:http://nexusatlas.com/60atlas/ogremeetingroom.php
+Ghost mantis:Forest crossroads:http://nexusatlas.com/60atlas/ghostmantis.php
+Giant centipede:Kugnae:http://nexusatlas.com/60atlas/batsandrats.php
+Giant Iron Tiger:Wilderness:http://nexusatlas.com/60atlas/gimyisden.php
+Giant mantis:Kugnae:http://nexusatlas.com/60atlas/deadlyaerie.php
+Giant scorpion:Kugnae:http://nexusatlas.com/60atlas/spiderclimb.php
+Giant spider:Kugnae:http://nexusatlas.com/60atlas/spidersweb.php
+Gim-yi:Wilderness:http://nexusatlas.com/60atlas/gimyisden.php
+Golden lobster:Wilderness:http://nexusatlas.com/60atlas/sandymounds.php
+Green gator:Tangun:http://nexusatlas.com/60atlas/tangun.php
+Green squirrel:Nagnang:http://nexusatlas.com/60atlas/southernpass.php
+Grim ogre: Hamgyong nam-do:http://nexusatlas.com/60atlas/theflats.php
+Grotto hare:Tangun:http://nexusatlas.com/60atlas/ravagedburrow.php
+Hail ogre:Artic:http://nexusatlas.com/60atlas/frozenfire.php
+Hamgyong jelly:Hamgyong nam-do:http://nexusatlas.com/60atlas/floodedcavern.php
+Hamgyong jelly:Hamgyong nam-do:http://nexusatlas.com/60atlas/floodedcavern.php
+Hamgyong mackerel:Hamgyong nam-do:http://nexusatlas.com/60atlas/chumsbasement.php
+Hill ogre:Hamgyong nam-do:http://nexusatlas.com/60atlas/marshecho.php
+Hill ogre:Hamgyong nam-do:http://nexusatlas.com/60atlas/dingyegress.php
+Hill ogre:Hamgyong nam-do:http://nexusatlas.com/60atlas/murkydivide.php
+Ice ogre:Artic:http://nexusatlas.com/60atlas/icecanyon.php
+Iron tiger:Wilderness:http://nexusatlas.com/60atlas/ironlab1.php
+Island Lobster:Hausson:http://nexusatlas.com/60atlas/hausson.php
+Large centipede:Buya:http://nexusatlas.com/60atlas/thousandlegs.php
+Lava fox:Buya:http://nexusatlas.com/60atlas/lavacave.php
+Lesser ghost:Buya:http://nexusatlas.com/60atlas/daggerhouse.php
+Lesser skeleton:Buya:http://nexusatlas.com/60atlas/gangrelcave.php
+Lesser skeleton:Kugnae:http://nexusatlas.com/60atlas/dugoutcave.php
+Lightning wolf:Buya:http://nexusatlas.com/60atlas/windingcavern.php
+Lilac butterfly:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Lobster:Vale:http://nexusatlas.com/60atlas/vale.php
+Lost spirit:Placeholder:http://nexusatlas.com/60atlas/dimquarry.php
+Marsh ogre:Hamgyong nam-do:http://nexusatlas.com/60atlas/dingyegress.php
+Massive scorpion:Kugnae:http://nexusatlas.com/60atlas/spiderclimb.php
+Moth:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Mountain goat:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Mud bull:Kugnae:http://nexusatlas.com/60atlas/tremor.php
+Northern ogre:Artic:http://nexusatlas.com/60atlas/northernogrecaves.php
+Ogre angler:Hamgyong nam-do:http://nexusatlas.com/60atlas/hamgyongriver.php
+Ogre explorer:Islets:http://nexusatlas.com/60atlas/islets.php
+Ogre forager:Hamgyong nam-do:http://nexusatlas.com/60atlas/hamgyongriver.php
+Pale scorpion:Kugnae:http://nexusatlas.com/60atlas/spiderclimb.php
+Radiant spider:Kugnae:http://nexusatlas.com/60atlas/spiderclimb.php
+Polar Bear:Vale:http://nexusatlas.com/60atlas/whitepinevalley.php
+Rat:Kugnae:http://nexusatlas.com/60atlas/catsfright.php
+Rat:Buya:http://nexusatlas.com/60atlas/vermincavern.php
+Ravenous bird: Kugnae:http://nexusatlas.com/60atlas/rockforest.php
+Red hare:Kugnae:http://nexusatlas.com/60atlas/insectsbane.php
+Rock lobster:Wilderness:http://nexusatlas.com/60atlas/sandyniche.php
+Rock snake:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Sand lobster:Wilderness:http://nexusatlas.com/60atlas/washedshores.php
+Seal guardian:Hamgyong nam-do:http://nexusatlas.com/60atlas/thefirstseal.php
+Seki:Buya:http://nexusatlas.com/60atlas/suteswelcome.php
+Shadow crow:Woodlands:http://nexusatlas.com/60atlas/woodlands.php
+Skeleton ja:Vale:http://nexusatlas.com/60atlas/muffleddrum.php
+Skeleton je:Vale:http://nexusatlas.com/60atlas/muffleddrum.php
+Skeleton ji:Vale:http://nexusatlas.com/60atlas/vilepit.php
+Skeleton sa:Vale:http://nexusatlas.com/60atlas/deathmarch.php
+Sleet ogre:Artic:http://nexusatlas.com/60atlas/rockice.php
+Slush ogre:Artic:http://nexusatlas.com/60atlas/snowdungeon.php
+Snow beast:Vale:http://nexusatlas.com/60atlas/whitepinevalley.php
+Snow ogre:Artic:http://nexusatlas.com/60atlas/stonefrost.php
+Snow rabbit:Artic:http://nexusatlas.com/60atlas/snowdungeon.php
+Southern ogre:Hamgyong nam-do:http://nexusatlas.com/60atlas/marshogres.php
+Southern ogre:Hamgyong nam-do:http://nexusatlas.com/60atlas/marshecho.php
+Spring butterfly:Kinung:http://nexusatlas.com//60atlas/kinung.php
+Sun fox:Buya:http://nexusatlas.com/60atlas/lavacave.php
+Sun fox:Kugnae:http://nexusatlas.com/60atlas/fireden.php
+Sunscale serpent:Tangun:http://nexusatlas.com/60atlas/shroudedpassage.php
+Sweet butterfly:Tangun:http://nexusatlas.com/60atlas/butterflyhaven.php
+Tan gator:http://nexusatlas.com/60atlas/tangun.php
+Tempest ogre:Artic:http://nexusatlas.com/60atlas/frozendash.php
+Terrified chicken:Kugnae:http://nexusatlas.com/60atlas/misplacedroost.php
+Thirsty komi:Tangun:http://nexusatlas.com/60atlas/torturedcrypt.php
+Tiger:Islets:http://nexusatlas.com/60atlas/islets.php
+Tiger:Vale:http://nexusatlas.com/60atlas/vale.php
+Trapdoor spider:Kugnae:http://nexusatlas.com/60atlas/spidersweb.php
+Voltaic Vamoth:Tangun:http://nexusatlas.com/60atlas/tangunyamourcave.php
+Warthog:Kugnae:http://nexusatlas.com/60atlas/ringworm.php
+White rabbit:Buya:http://nexusatlas.com/60atlas/buya.php
+White rabbit:Kugnae:http://nexusatlas.com/60atlas/kugnae.php
+White wolf:Buya:http://www.nexusatlas.com/60atlas/windingcavern.php
+Wicked ghost:Buya:http://nexusatlas.com/60atlas/pawcatacomb.php
+Wild pig:Kugnae:http://nexusatlas.com/60atlas/snakefood.php
+Wild piglet:Kugnae:http://nexusatlas.com/60atlas/earthworms.php
+Witch:Kugnae:http://nexusatlas.com/60atlas/witchesbrew.php
+Witch shaman:Kugnae:http://nexusatlas.com/60atlas/finalrest.php
+Worm:Kugnae:http://nexusatlas.com/60atlas/wormpits.php
+Yachi:Buya:http://nexusatlas.com/60atlas/suteswelcome.php
