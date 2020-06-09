@@ -1,0 +1,10 @@
+git+https://github.com/Digbased/TK-BRAINS
+PyNaCl==1.3.0
+pandas
+babel.numbers
+bs4
+discord
+requests
+urllib.request
+dnspython==1.16.0
+async-timeout==3.0.1
